@@ -1,1 +1,3 @@
 # dynamic-quiz-application
+This project creates a dynamic quiz application using HTML, CSS, and JavaScript. The quiz will have multiple-choice questions with options, and the user can select an answer for each question. At the end of the quiz, the application will display the user's score and provide feedback based on the score.
+ The HTML file contains the structure of the quiz interface, while the CSS file styles the elements. The JavaScript file defines an array of questions with answers and correct answers, builds the quiz interface dynamically, and checks the user's answers when they submit the quiz. The application then displays the user's score and highlights correct and incorrect answers.
